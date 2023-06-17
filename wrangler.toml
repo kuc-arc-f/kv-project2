@@ -1,0 +1,10 @@
+name = "kv-project2"
+main = "src/index.ts"
+compatibility_date = "2023-06-16"
+
+kv_namespaces = [
+    { binding = "MY_KV", id="hoge1", preview_id = "hoge2" }
+]
+
+[vars]
+API_KEY = ""
